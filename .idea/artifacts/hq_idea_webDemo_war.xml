@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hq-idea-webDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hq-idea-web.war">
+      <element id="artifact" artifact-name="hq-idea-webDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
